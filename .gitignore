@@ -2,3 +2,9 @@ node_modules/
 .DS_Store
 .next/
 k8s/
+DEPLOYMENT_GUIDE.md
+SUBMISSION_TEMPLATE.md
+README.md
+README.md
+EC2_SETUP_SCRIPT.sh
+LAMBDA_SETUP_GUIDE.md
