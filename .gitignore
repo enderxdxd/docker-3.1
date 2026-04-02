@@ -3,3 +3,5 @@ node_modules/
 .next/
 .dockerignore
 k8s/
+DEPLOYMENT_GUIDE.md
+SUBMISSION_TEMPLATE.md
